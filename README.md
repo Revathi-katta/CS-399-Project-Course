@@ -16,7 +16,6 @@ Spiking Neural Networks are considered a more biologically realistic alternative
 - Compared their performance with standard **ANN models**  
 - Analyzed differences in **accuracy, efficiency, and behavior**
 
----
 
 ## Key Concepts  
 
@@ -36,7 +35,7 @@ Spiking Neural Networks are considered a more biologically realistic alternative
 - Enables training despite non-differentiable spike function  
 - Ensures **stable gradient flow across layers**
 
----
+
 
 ## Results & Insights  
 
@@ -47,7 +46,7 @@ Spiking Neural Networks are considered a more biologically realistic alternative
   - ANN: **4.6 pJ (MAC)**  
   - SNN: **0.9 pJ (AC)** scaled by firing rate  
 
----
+
 
 ##  Technologies Used  
 
@@ -57,16 +56,16 @@ Spiking Neural Networks are considered a more biologically realistic alternative
 - NumPy  
 - Matplotlib  
 
----
+
 
 ##  Instructor  
 **Prof. Manisha Padala**
 
----
+
 
 ##  Contributors  
 **Chepuri Venkata Naga Thrisha (23110079)**  
 **Katta Revathi (23110159)**   
 B.Tech @ IIT Gandhinagar
 
----
+
