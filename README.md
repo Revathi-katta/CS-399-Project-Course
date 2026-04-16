@@ -1,20 +1,8 @@
 # CS-399 Project Course  
 ## Spiking Neural Networks vs Artificial Neural Networks
 
-This repository contains the implementation and analysis of **Spiking Neural Networks (SNNs)** and their comparison with **Artificial Neural Networks (ANNs)**. The project focuses on evaluating biologically inspired neuron models such as **Leaky Integrate-and-Fire (LIF)** and **Multi-Synaptic Function (MSF)** across different machine learning tasks.
+This repository contains the implementation and analysis of **Spiking Neural Networks (SNNs)** and their comparison with **Artificial Neural Networks (ANNs)**. The project focuses on evaluating biologically inspired neuron models, such as **Leaky Integrate-and-Fire (LIF)** and **Multi-Synaptic Function (MSF)**, across various machine learning tasks.
 
----
-
-## 👩‍🏫 Instructor  
-**Prof. Manisha Padala**
-
----
-
-## 👩‍💻 Contributors  
-- **Chepuri Venkata Naga Thrisha (23110079)**  
-- **Katta Revathi (23110159)**  
-
----
 
 ## 📌 Project Overview  
 
@@ -45,5 +33,18 @@ Spiking Neural Networks are considered a more biologically realistic alternative
 - ANN models generally achieved higher accuracy compared to SNN models in initial experiments  
 - MSF models required careful tuning of parameters to improve performance  
 - SNNs showed potential advantages in biological realism and temporal processing  
+
+---
+
+---
+
+## 👩‍🏫 Instructor  
+**Prof. Manisha Padala**
+
+---
+
+## 👩‍💻 Contributors  
+- **Chepuri Venkata Naga Thrisha (23110079)**  
+- **Katta Revathi (23110159)**  
 
 ---
